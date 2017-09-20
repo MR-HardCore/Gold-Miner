@@ -1,0 +1,12 @@
+Info (10281): Verilog HDL Declaration information at project2.v(21): object "HEX0" differs only in case from object "hex0" in the same scope
+Info (10281): Verilog HDL Declaration information at project2.v(21): object "HEX1" differs only in case from object "hex1" in the same scope
+Info (10281): Verilog HDL Declaration information at project2.v(21): object "HEX2" differs only in case from object "hex2" in the same scope
+Info (10281): Verilog HDL Declaration information at project2.v(21): object "HEX3" differs only in case from object "hex3" in the same scope
+Info (10281): Verilog HDL Declaration information at project2.v(21): object "HEX4" differs only in case from object "hex4" in the same scope
+Info (10281): Verilog HDL Declaration information at project2.v(21): object "HEX5" differs only in case from object "hex5" in the same scope
+Info (10281): Verilog HDL Declaration information at project2.v(180): object "start" differs only in case from object "START" in the same scope
+Info (10281): Verilog HDL Declaration information at project2.v(187): object "finish" differs only in case from object "FINISH" in the same scope
+Info (10281): Verilog HDL Declaration information at project2.v(201): object "left" differs only in case from object "LEFT" in the same scope
+Info (10281): Verilog HDL Declaration information at project2.v(201): object "right" differs only in case from object "RIGHT" in the same scope
+Info (10281): Verilog HDL Declaration information at project2.v(202): object "ver" differs only in case from object "VER" in the same scope
+Warning (10273): Verilog HDL warning at project2.v(2787): extended using "x" or "z"
